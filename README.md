@@ -3,4 +3,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/20114741cb301b102911/maintainability)](https://codeclimate.com/github/LeXa224/frontend-project-44/maintainability)
 
-#Мойпроект
+#Мой
